@@ -1,5 +1,5 @@
 class Config:
-        HOST = "localhost:5432"
+        HOST = "u2y.cnyxtuppiqxw.eu-west-1.rds.amazonaws.com:5432"
         DATABASE = "bthizmetler"
         USER = "unsal"
         PASSWORD = "Qaz1wsx2!"
