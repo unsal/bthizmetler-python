@@ -1,8 +1,8 @@
 # Veritabanı bağlantısı için
 class Config:
-        HOST = "u2y.cnyxtuppiqxw.eu-west-1.rds.amazonaws.com:5432"
+        HOST = "bt.ozyegin.edu.tr:5432"
         DATABASE = "bthizmetler"
-        USER = "unsal"
+        USER = "postgres"
         PASSWORD = "Qaz1wsx2!"
 
 class ConfigAWS:
