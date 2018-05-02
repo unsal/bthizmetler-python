@@ -1,0 +1,923 @@
+1;2018;yazilim;SIS Talepler;"ÖH Talepler (198/394 +104 task çal__ma):OK!  FYK- Senato- Yönetmelik- Mevzuat- vb. karar de_i_iklikleri nedeniyle istenen taleplerin yap_lmas_ - OKOK!  Ders Kay_tlar_- Add Drop- Kay_t Dönemi süreçlerinin iyile_tirilmesi - OKOK!  Müh. Fak. Mezuniyet Denetim Sistemi ile entegrasyon yap_lmas_ OKOK!  Üniversite karar_yla belgelere uzmanl_k alanlar_ eklendi.OK!  Sistemde memory _i_mesine neden olan sorgular ve fonksiyonlar iyile_tirilerek performans art_r_m_ sa_land_. OK!  Ders kay_tlar_ döneminde ö_rencilerin ve ÖH'nin mezuniyet denetimi  performans geli_tirmeleri yap_ld_.OK!  Yönetmelik de_i_ikli_i: Withdraw sürecindeki de_i_ikli_im implemente edilmesiOK!  FYK Karar_: 2. Dil Dersi alma kural_ndaki de_i_ikliklerin uygulanmas_OK!  YÖKS_S entegrasyon eksikleri giderildi- sorunlar_ çözüldü- veri gönderimi ve teyitle_me i_lemleri otomatize edildiOK!  KHK ile gelen ö_rencilerin kay_t ve mezuniyet süreçleri ile ilgili geli_tirmeler yap_ld_OK!  Data kontrolleri için çek mekanizmalar_ yaz_lmas_ (Sürekli devam ediyor)OK! YÖKS_S Web Service yeni versiyon (YÖKS_S yeni bildirdi- yap_lacak)OK!  ÖSYM Web Service yeni versiyon (ÖSYM yeni bildirdi- yap_lacak)OK!  e-kay_t geli_tirmeleri )OK!  YÖKS_S Yabanc_ No entegrasyonu OK!  2017 Kay_t süreci talepler OK!  KHK ile gelen özel ö_rencilere özgü resmi belgeler ...  SIS Duyuru Modülünün myOzu Mobile'a ta__nmas_ (A_ustos 2017)Finans Talepler:OK!  Fatura modülünde çok sorun ç_kt___ için yeniden yaz_ld_ - OKOK!  Finans modülü karma__k case'lerde do_ru çal__m_yor ve çok bak_m gerektiriyordu. Bir çok case için iyile_tirme geli_tirmesi yap_ld_.OK!  Ö_rencilere kalan burs miktar_n_n gösterilmesi (ÖH'de testte)OK!  KHK ile gelen ö_renciler için Finansal süreçlerdeki de_i_iklikler hayata geçirildi.OK!  SIS -> ERP entegrasyonu iyile_tirildiOK!  Kullan_m kolayl___ için ÖH ve Yurt katalog fiyatlar_n_n istenen dönemden kopyalanabilmesi özelli_i geli_tirildi (testte)Yurt Talepler:OK!  Yurt ba_vuru- yerle_tirme- sonuç görüntüleme- anahtar teslim- oda de_i_im ve finansal süreçlerinde iyile_tirmeler yap_ld_. Yurt yerle_tirme sürecine simülasyon özelli_i ve online yönerge onay_ eklendi.ÖzüBurs Talepler:OK!  Ba_vuru modül ve sürecinde iyile_tirmeler yap_ld_.Lise Yaz Okulu Talepler:OK!  Kampanya modülü geli_tirildi.OK!  Süreçle ilgili iyile_tirmeler yap_ld_.SEA Talepler:OK!  Ba_vuru- kabul ve finans süreçlerinde iyile_tirmeler yap_ld_.Ders De_erlendirmeleri:OK!  ÖH tan_m ekranlar_nda iyile_tirme talepleri yap_ld_.OK!  Raporlarda iyile_tirmeler yap_ld_";ÖH;1;28/04/2018 21:01
+2;2018;yazilim;BPM __ Ak___ Uygulamalar_;"- RMS Sat_nalma Formu (Sat_nalma) - OK- RMS Proje Masraf Talep Formu (FI) – OK- RMS Avans Talep Formu (FI) - OK- RMS Ön Ödeme Talebi (FI) - OK- Web Sitesi Talep Formu (KI) – OK- BT Proje Talep Formu (BT) – Geli_tirildi- test edilerek yay_na al_nacak- Data Talep Formu (POA) - Geli_tirildi- test edilerek yay_na al_nacak2018 Projeler 1. _hale Karar Süreci – 2018 2. Etkinlik Talep Formu (KI) – 2018 3. Fatura Düzenleme Talep Formu - 2018 4. Ödeme Avans_ Talep Formu - 2018 5. Ziyaretçi internet hesab_ aç_l__ formu - 2018 6. Ziyaretçi Bildirim Formu (HSE) - 2018 7. Ula__m Talep Formu (OTH) – 2018 8. Kartvizit Talep Formu (OTH) – 2018 9. Bütçe Toplama Formu (FI) – 201810. HPC Talep Formu – 201811. Ö_renci Foto_raf De_i_im Talebi (ÖH) - 201812. Sözle_me Onay Süreci (K2'den Migration) - 201813. Masraf Talep Formu (ERP'den Migration) - 201814. Sat_nalma Talebi (ERP'den Migration) - 201815. K_smi Zamanl_ Çal__an Ö_renci Süreci - 201816. IK i_e ba_lama- i_ten ayr_lma süreci - HR uygulamas_ haz_rland_ktan sonra 2018 için planlanacak17. _zin Talep Formu (IK) – 2018 için planlan_yor18. BT Hesap Aç_l__ Formu (BT) – 201819. Subdomain Talep Formu (BT) – 2018";Genel;1;
+3;2018;yazilim;XRM Uygulamalar_;"Tamamlananlar OK! 1. Aday Ö_renci/Tan_t_m veritaban_ tamamland_ OK! 2. Güvenlik Bilgi Sistemi tamamland_ OK! 3. Üniversite Rehber Veritaban_ tamamland_ OK! 4. Yurt Disiplin Cezalar_ sistemi tamamland_ OK! 5. TTO Proje Patent takip sistemi tamamland_ OK! 6. Ça_r_ Merkezi _leti_im veritaban_ tamamland_ OK! 7. Spor Merkezi Kay_t takip- ödüller- sporcu takip sistemi tamamland_ OK! 8. Tercih Tan_t_m Event Calender (KI) OK! 9. Tan_t_m Modülü Tercih Dönemi çal__malar_ (KI) OK! 10. Web Form ve SIS ba_vuru formlar_ XRM entegrasyonu ve izin altyap_s_ OK! 11. _leti_im- Mail/SMS- Kampanya altyap_s_ OK! 12. SEA _leti_im veritaban_ (test a_amas_nda)Devam eden:13. Mezun Bilgi Sistemi – bildirilen ihtiyaçlar tamamland_- taleplere göre geli_tirmeler devam edecek14. IK Bilgi Sistemi (tamamland_- IK'ya teste verilecek ) 2018 Gelecek Plan- Ö_renci Kulüpleri Veritaban_ (Ülkü Hn)- Fakülte Bilgi Sistemi- Ula__m Veritaban_- Ö_renci Geli_im Merkezi- L’Cordon Bleu - Kampus Disiplin Cezalar_- Evateg Veritaban_- Rektörük Ofisi- Lise Yaz Okulu- OZU Burs ";Genel;0;28/04/2018 21:01
+4;2018;yazilim;RMS Finans ...;OK Tamamland_;Finans;0;
+5;2018;yazilim;Ders Program_ Katalog;OK!  Bu sene için sadece __letme Fakültesi Offered Courses yap_ld_. Dileyen fakülteler bu altyap_y_ kullanabilir.;Akademik;0;28/04/2018 21:01
+6;2018;yazilim;ERP Uygulamalar_;"OK!  Performans iyile_tirmeleri OK!  M_'nin Muhasebe taraf_ndaki çe_itli talepleri Partnera firmas_ taraf_ndan yap_ld_ (defterler- raporlar- vs.)";Finans;0;
+7;2018;yazilim;"Annual Report yeniden geli_tirme";"2018 - Annual Report KPI'lar_n_n BI Dashboard ile Akademik Yöneticilere sunumu- Annual Evaluation Form";Akademik;3;28/04/2018 21:01
+8;2018;yazilim;IK Bilgi Sistemi;"OK!  XRM Sistem üzerinde geli_tirildi tamamland_- IK test a_amas_nda";IK;0;
+9;2018;yazilim;Online Otopark Tahsilatlar_;"2019: Ö_rencilerin otopark ücretlerinin online tahsil edilmesi (ek olarak ücretini ödemi_ ö_rencilerin otoparklara kart okutarak direk girebilmeleri de isteniyor)MI vazgeçti. 2017/18 Güz dönemi için tekrar talep edip etmeyecekleri henüz belli de_il. Beklemedeyiz.";Operasyon;3;28/04/2018 21:01
+10;2018;yazilim;Course Evaluation DW;"2018: Course Evaluation dashboard'lar_ için- database haz_rlanacak (sorgular haz_r- Excel'le dashboard'a aktarabiliyorlar. E_er yeni bir ürün alma karar_ verilirse diye _imdilik do_rudan dashboard'lar_ DB'ye ba_latmad_k)Beklentilerin çoklu__u nedeniyle 2018 y_l_ için paket yaz_l_mlar ara_t_r_l_yor";Akademik;3;
+11;2018;yazilim;Psikoloji Merkezi Rezervasyon Sistemi;OK! Tamamland_. Psikoloji merkezine ba_vuran ö_rencilerin randevu alma sistemi (Ürün incelemesi gerçekle_tirdik. Sat_nal_m_n_n onaylanmas_ durumunda Libcal yaz_l_m_ ile bu talebi kar__layabiliyoruz);Psikoloji;0;28/04/2018 21:01
+12;2018;yazilim;Entegrasyonlar;"OK!  Üniversitede bulunan tüm ki_ilerin kaynak datalar kullan_larak tek bir DB'sinin olu_turulmas_ (Çal__an- Ö_renci- Mezun- Ta_eron- vs.)OK! BPM ve XRM ile orada kullan_lacak datalar_n kaynaklar_ aras_nda entegrasyon (SIS- ERP- vs.)OK! Personel verisi ile HSE yaz_l_m_ aras_nda entegrasyonOK! BPM Proje Sat_n alma ile ERP aras_nda entegrasyonOK! BPM Proje Masraf bildirimi ile ERP aras_nda entegrasyonOK! RMS ERP Entegrasyonlar_ PArtnera2018- Akademisyen Bilgi Sistemi Entegrasyonlar_ (Tanju Hoca henüz dönmedi)- BPM'in sonucunda olu_acak datalar ile ilgili sistemler aras_nda entegrasyon- Kütüphane Sistemi (Sierra) ile SIS aras_nda ceza ücretlerinin belirlenmesi ve tahsilat bilgilendirmesi entegrasyonu- Ki_i veri taban_ ile Sierra aras_nda entegrasyon- Ki_i veri taban_ ile AD aras_nda entegrasyon";BT;0;
+13;2018;yazilim;Shuttle Saatleri Giri_leri Form;"2018:Shuttle veri giri_i K2'de yaz_lm__t_. K2'yi kald_rmak için bu uygulaman_n ba_ka bir platforma ta__nmas_ gerekiyor. Ta__nma i_leminin akabinde yap_lmas_ gerekenler:- Mobil uygulamay_ güncelleme- Web sitesi Shuttle sayfas_n_ güncelleme- Kullan_c_ e_itimleri";Operasyon;3;28/04/2018 21:01
+14;2018;yazilim;Tanju Hoca Yaz_l_mlar;- EIS devralma (Tanju Hocan_n talebi- henüz dönmedi);Mühendislik;2;
+15;2018;yazilim;Facult Instructor Assignment;"2018:Excel'de yap_l_yor. __letme Fakültesi Uygulama isteniyor. CRM olabilirMine Mut ";__letme;3;28/04/2018 21:01
+16;2018;yazilim;EBYS - 2017;OK! EBYS Geli_tirildi yay_na al_nd_;YÖK;0;
+17;2018;yazilim;Rehber Veritaban_;"OK!  Ünvan_- PozsiyonuOK!  Ö_reni- Hoca- Çal__an- Mezun- Ta_eron bilgilerini içeren Rehber Veritaban_. OK!  XRM Sistemi veri kayna__ olacakOK!  Fakülte/Birim Oda bilgisiOK!  Ofis ve Cep Tel BilgisiOK!  Do_um günü";BT;0;28/04/2018 21:01
+18;2018;yazilim;Dijital Ar_iv. Hüsnü Özye_in;"OK! Dijital Ar_iv uygulamas_. Content DM veya Drupal ile yerel bir çözümSharepoint ile devam edildi.";Kütüphane;0;
+19;2018;yazilim;ISG Yaz_l_m_;OK! __ Sa_l___ Güvenli_i Yaz_l_m_ kuruldu;HSE;0;28/04/2018 21:01
+20;2018;yazilim;KION;OK! Uluslararas_ Ö_renci Ba_vuru Sistemi uyarlama ve entegrasyon çal__malar_ tamamland_;UO;0;
+21;2018;yazilim;Online Ödeme Sistemi ;Haz_r Ödeme Sistemi Çözümüne geçi_ - Ideasoft. SIS'deki yaz_l_m_n iptali ;Finans;2;28/04/2018 21:01
+22;2018;yazilim;Çal__ma Odalar_ Rezervasyonu;OK! Libcal Yaz_l_m_ al_nd_;Genel;0;
+23;2018;yazilim;LinkProfessional;"L_nkProfessional sistemi ile ilgili bildirilen sorunlar_n çözümüne destek olundu. Ürün incelendi- bizde bulunmayan modüller hakk_nda bilgi al_nd_.2018- Ö_rencilerin sisteme üniversite kullan_c_ ad_ ve _ifresi ile login olmas_ sa_lanacak.- SIS'den ö_renci ve mezun bilgilerinin LinkProfessional'a otomaitk akmas_ sa_lanacak.- LinkProfessional'dan i_ ilanlar_n_n MyÖzü ve mobil'e akmas_ sa_lanacak.";PG;2;28/04/2018 21:01
+24;2018;yazilim;Spor Bursu Ba_vurular_;OK!  Spor Bursu ba_vurular_n_n üniversite Kurumsal Web Sitesi'nden online al_nabilmesi sa_land_.;SPOR;0;
+25;2018;yazilim;Spor Merkezi Rezervasyon Uygulamas_;"OK! Libcal ile çözüldü.Spor Merkezi Ekipmanlar_n_n Rezervasyonu için al_nacak haz_r yaz_l_m çözümü içindir.- Ekipman kullan_m rezervasyonu- Ekipman kullan_m loglar_";SPOR;0;28/04/2018 21:01
+26;2018;yazilim;Ders Yoklamalar_ (Mobil);OK! Mobil Uygulama Geli_tirildi. Elektronik Ders Yoklamalar_ Uygulamas_ - Teoman Hoca- QRCode uygulamas_ geli_tirildi;Akademik;0;
+27;2018;yazilim;Azure Cloud Uygulamalar;"OK!  Web Hosting (www- intranet- mikro v.b.)OK!  LMS Sektörel OK- LMS Genel- DynmCRM - MS ile lisans anla_mas_ görü_ülüyor";BT;0;28/04/2018 21:01
+28;2018;yazilim;Single Signon (Azure);"OK! Kurumsal Web OK! myOZU OK! BPM DynmCRMLMSSiS";BT;0;
+29;2018;yazilim;LMS Arayüz;OK! LMS Upgrade ve Template çal__mas_. ;BT;0;28/04/2018 21:01
+30;2018;yazilim;BI Dashboard;"OK! MS PowerBI devreye al_nd_.Tableau Dashboard for Executive. (Zoho- PowerBI alternatifleri ara_t_r_l_yor)T: 750$/1 userPBI: 20$/1 user";BT;0;
+31;2018;yazilim;Bilgi Sistemi Backup;"OK! Bilgi Sistemi backup sistemi yenilemesi ve kapasite artt_r_m_";BT;0;28/04/2018 21:01
+32;2018;yazilim;Disaster sistemlerinin kurulmas_;"OK! Web gibi kritik sistemlerin disaster durumlarnda yedek bir sistem üzerinden çal__maya devam edece_i altyap_n_n kurulmas_- web ok- lms ok2018- sis - erp";BT;0;
+33;2018;yazilim;ODS ve Raporlama Veriambar_ çal__mas_;"OK! Kurumsal Veri Ambar_ Sistemi MS SQL Server üzerinde yap_land_r_ld_OK! Tüm operasyonel verilerin raporlanmas_ için veriler tek merkezde topland_OK!  Veriler üzerinde tekille_tirmesi yap_s_ ve süreci geli_tirildiOK! Tüm sistemler için ortak ve tek veritaban_ yap_s_ kurulduOK!  Bu altyap_ üzerinde veri ve rapor talepleri için OPA birimi ile süreç geli_tirildiOK!  Data ve Rapor talep formu geli_tirildi.";BT;0;28/04/2018 21:01
+34;2018;yazilim;Yönergeler Prosedürler Sayfas_;"2018Tüm kullan_c_lar_n eri_ebilece_i Yönergeler Prosedürler web uygulamas_n_n geli_tirilmesi";BT;3;
+35;2018;yazilim;Urkund ;OK! Urkund vs Turnitin ara_t_r_ld_ Turnitin'e karar verildi;BT;0;28/04/2018 21:01
+36;2018;yazilim;Events OzU;OK! Etkinlik Sayfas_;Rektörlük;0;
+37;2018;yazilim;OZU Mobile Native;OK! Tamamland_ yay_na al_nd_ v3 çal__malar_ yap_l_yor;BT;0;28/04/2018 21:01
+38;2018;yazilim;myOZU SIS UX/UI;"OK! SIS Uygulama arayüzlerinin ö_renci bilgi ekranlar_ myOzU'ye ta__n_yor.";BT;0;
+39;2018;yazilim;Ki_isel Web Sitesi;OK! Ö_retim Üyeleri için ki_isel web siteleri altyap_s_. Wordpress ile devam edilecek;BT;0;28/04/2018 21:01
+40;2018;yazilim;Say_larla OZU;OK! D__ Web uygulamas_;BT;0;
+41;2018;yazilim;Kurumsal Web Sitesi;OK!;Rektörlük;0;28/04/2018 21:01
+42;2018;yazilim;Kentico Siteleri Drupal'e Ta__ma;"OK! Kentico -> Drupal: Kütüphane Web SitesiOK! Kentico -> Drupal: ÖzÜ BursOK! Kentico -> Drupal: Alt_nc_ DuyuOK! Kentico -> Drupal: ÇocukOK! Kentico -> Drupal: SektörelOK! Kentico -> Drupal: Tefrika Roman";BT;0;
+43;2018;yazilim;myOzU Intranet;OK! ;BT;0;28/04/2018 21:01
+44;2018;kurumsal;KVKK;OK! Kampüs genelinde KVKK uyumlanma çal__malar_n_n gerçekle_tirilmesi;Rektörlük;0;
+45;2018;kurumsal;XRM Çal__malar_;"OK! XRM Web Form süreçlerinin geli_tirilmesiOK! 5651 Uyumluluk- mevzuat";BT;0;28/04/2018 21:01
+46;2018;kurumsal;XRM _leti_im Modülü;2018: ClickDimension ve Azure ara_t_r_l_yor;BT;3;
+47;2018;kurumsal;ÇÖZÜM MERKEZ_ Raporlar_ Güvenlik;2018: SC Raporlar_n_n Zoho'dan PowerBI'ya ta__nmas_;BT;3;28/04/2018 21:01
+48;2018;kurumsal;"Form - Prosedür çal__mas_QDMS vs EBYS";"2018:* Mevcut prosedür ve formlar_n güncellenmesi* yeniden olu_turulmas_ gereken form ve prosedürlerin haz_rlanmas_* i_ ak__lar_n_n ç_kart_lmas_";BT;3;
+49;2018;kurumsal;SC Projeler;"OK! SC Projeler modülün devreye al_nmas_ (ilgili testlerin tamamlanmas_-SC istek durumlar_na ""projelendirildi"" status eklenmesi- teknisyenlere modülün i_leyi_i ve kullan_m_na ili_kin bilgilendirme yap_lmas_)";BT;0;28/04/2018 21:01
+50;2018;kurumsal;SC Dashboard;OK! Rektörlük ve KHDK Dashboard talep edilen iyile_tirmeler _____nda raporun finalize edilmesi;Genel;0;
+51;2018;kurumsal;SC Performans;OK! SC'de faaliyet gösteren birimlerrin performans gösterge raporlar_n_n tamamlanmas_ ve yöneticilerle payla__lmas_. (BT-_dari __ler-Teknik Hizmetler-Konaklama Hizmetleri-HSE-Kütüphane-Ö_renci Hizmetleri);Genel;0;28/04/2018 21:01
+52;2018;kurumsal;SC Prosedurler;OK! Çözüm Merkezi Prosedür dokümantasyon çal__mas_ (komisyon onaylar_n_n al_nmas_ ve yay_mlanmas_);BT;0;
+53;2018;destek;BT Memnuniyet Anketi;2019: Senede bir defa yap_lmak üzere. BT servisleri ile ilgili memnuniyet anketi çal__mas_;BT;3;28/04/2018 21:01
+54;2018;destek;Print Accounting Service;"2019: * Yaz_c_ ve fotokopi maliyetlerini dü_ürecek Account Servis Yönetimi ve iyile_tirmeler.* Kota Yönetimi* Raporlama çal__malar_n_n geli_tirilmesi (zoho)";BT;3;
+55;2018;destek;Ofis _htiyac_;2019: * Say_s_ Artan Kullan_c_ Destek ekibi için mevcuttan daha geni_ bir ofis alan_ ayarlanmas_;BT;3;28/04/2018 21:01
+56;2018;destek;Kapat_lmayan Hesaplar;OK! __ten ayr_lan (165) personelin hesaplar_n kapat_lma otomasyonu. IK i_ten ayr_lma süreci ile birlikte de_erlendirilecek;BT;0;
+57;2018;destek;BT Gözden Geçirme Raporu;"2018:- Gözden geçirme rapor tasla__n_n olu_turulmas_- BT Kpi'lar_n_n belirlenmesi- SC Raporlar_n_n PowerBI ile geli_tiirlmesi- Ayl_k periyodik toplant_larda sunumu";BT;3;28/04/2018 21:01
+58;2018;destek;CMDB Envanter Yönetimi;OK! Zimmetler- Inhouse Commercial Yaz_l_mlar- lisanslar- Sunucu Sistemler- Network ekipmanlar_- Bak_mlar- Kiralar- Hizmetler v.b.;BT;0;
+59;2018;destek;Help Desk Depo;OK! Kullan_c_ Destek masas_ için PC- laptop- malzeme- ekipman v.b envanterler için fiziksel depo alan_n geli_tirilmesi. Envanter kay_tlar_ ile takibi. ;BT;0;28/04/2018 21:01
+60;2018;destek;Upgrade çal__mas_;"OK! * Tüm personelin bilgisayarlar_n_n Windows 10 upgrade edilmesi.* Performans ihtiyac_ olabilcek personelin bilgisayarlar_n_n ram vs SSD disk upgrade edilmesi";BT;0;
+61;2018;destek;Bilgisayarlar_ Bak_m Çal__mas_;"OK!* Personel bilgisyarlar_n software ve donan_m bak_m_.* Ortak alan bilgisayarlar_n_n win10 upgrade edilmesi.* Login problemi olanlar_n sistem network ile ortak çal__ma ile düzeltilmesi- ortak alan bilgisayarlar_n_n mümkün oldu_unca kablolu ba_lant_ya geçirilmesi.* imaj çal__malar_.";BT;0;28/04/2018 21:01
+62;2018;destek;AD Hesap açma kapama ve ziyaretçi internet hesaplar_;"OK! * Kullan_c_ hesap açma ve kapama i_lemlerinin  takibinin Kullan_c_ Destek ekibine geçi_i.* Ziyaretçi internet hesaplar_ açma kapama i_lemlerinin Kullan_c_ Destek ekibine geçi_i* Süreçlerin netle_tirip belirlenmesi";BT;0;
+63;2018;destek;Office 365-dreamspark kullan_m_;OK! * Ö_rencilere Microsoft ürünlerinin ücretsiz kulland_r_lmas_;BT;0;28/04/2018 21:01
+64;2018;sistem;VMWare Sanalla_t_rma;OK! Sanalla_t_rma sistemlerinin büyütülmesi. HyperV yan_nda VMWare ile. Sunucu al_mlar_ paralelinde;BT;0;
+65;2018;sistem;Bilgi Güvenli_i;2018: Sistem- Sunucu- Network- Web- Yaz_l_m  için bilgi güvenli_i ve risk de_erlendirme çal__malar_;BT;3;28/04/2018 21:01
+66;2018;sistem;D__ ortam Kablosuz geni_leme;OK! Quad- Top Sahas_ v.b. çevrelerde kablosuz çekim alan_n geni_letilmesi çal__malar_. Eylül'de tamamlan_yor;BT;0;
+67;2018;sistem;HPC Cluster;OK! HPC süreç geli_tirme ve destek faaliyetleri. Altu_ Hoca;BT;0;28/04/2018 21:01
+68;2018;sistem;File Server Kota Yönetimi;2018: Yeni File server ve S_n_rs_z Disk kullan_m_ndan k_s_tl_ kullan_ma geçi_;BT;3;
+69;2018;sistem;Santral Backup;2019: Call Center Telekom altyap_na yedek çal__an yerel Santral sisteminin kullan_lmas_;BT;3;28/04/2018 21:01
+70;2018;sistem;Network guvenli_i;OK! Network güvenli_i için Switch- ISE- Firewall tasar_mlar_n_n yap_lmas_;BT;0;
+71;2018;sistem;EduROAM;OK! Eduroam kurulumu;BT;0;28/04/2018 21:01
+72;2018;sistem;HP Storage kapasite artt_r_m_;OK!;BT;0;
+73;2018;sistem;HP Sunucu Sanalla_t_rmalar_;OK! Datacenter park_nda bulunan fiziksel sunucular_n sanalla_t_r_lmas_;BT;0;28/04/2018 21:01
+74;2018;sistem;IPS Bütçe nedeniyle _PTAL;_çerden ve d__ardan gelecek ataklara kar__ sistemlerimizi korumak amac_yla yürütülecek IPS çal__mas_. Paolo Alto sistem kullan_lacakt_r.;BT;3;
+75;2018;sistem;Load Balancer (HAProxy);OK! SiS- Web- LMS v.b. kritik sistemlerde kullan_lmak üzere;BT;0;28/04/2018 21:01
+76;2018;sistem;Google Gruplar;OK! MyOzu yap_land_r_ld_. Google gruplar_n duzenlemesi icin yeni arayuz planlama. MyOZU duyuru sistemi kullan_lacak;BT;0;
+77;2018;sistem;TTNet Internet Eri_imi;OK! 900mbit'e yükseltme;BT;0;28/04/2018 21:01
+78;2018;sistem;Yeni Bina data- Network tasar_m_;OK! Yeni yap_lacak binalar için Kablolama dizayn_n yap_lmas_ autocad de i_lenmesi- kurulacak networkun tasarlanmas_;BT;0;
+79;2018;sistem;Hizmet Katalogu;OK! Hizmet Katologu haz_rlanmas_;BT;0;28/04/2018 21:01
+80;2018;sistem;Backup Sistemi ve Kapasite Artt_r_m_;OK! VeemBackup sisteminin yeni lisanslar ve yeni sanal sunucular paralelinde yenilenmesi. 24 TB;BT;0;
+81;2018;sistem;Envanter;OK! Kampüs Sunucu Network ekipman envanter listesinin genel kontrolü- güncellenmesi ve SC Envanter kay_tlar_na giri_i;BT;0;28/04/2018 21:01
+82;2018;sistem;Pano odalar_ bak_m çal__mas_;"OK! Switch pacth panel kablolamalar_n_n düzenlenmesi.OK! Donan_m temizli_inin yap_lmas_.";BT;0;
+83;2018;sistem;Analog telefon santral çal__mas_;2019:  Santralde bulunan tüm firma telefonlar_n_n ve telekom hatlar_n_n ayr_nt_l_ listesinin haz_rlanmas_.;BT;3;28/04/2018 21:01
+84;2018;sistem;Digital Signage Sistemi;"2018: - Kampüs genelindeki tüm LCD- Kiosk vb. görüntü sistemlerinin tek bir noktadan yaz_l_msal olarak yönetilebilece_i sistemin talep süreçleri ile birlikte geli_tirilmesi- Tüm ekranlar_n kontrolü sisteme entegrasyonu ve yenilenme süreci- Sistem kullan_c_s_ yönetim program_n_n güncellenmesi";BT;3;
+85;2018;sistem;A/V Ekipman Envanteri;OK! Kampüs A/V ekipman envanter listesinin genel kontrolü- güncellenmesi ve SC Envanter kay_tlar_na giri_iOK! ;BT;0;28/04/2018 21:01
+86;2018;sistem;A/V Sistem Geli_tirmeleri;OK! S_n_f- toplant_ odalar_ ve oditoryumlar ile A/V sistemlerin kullan_ld___ di_er alanlar_n teknolojik geli_meler çerçevesinde revizyon tespitleri-planlamalar_ ve uygulamalar_;BT;0;
+87;2018;sistem;Canl_ yay_n koordiasyonu ve yönetimi;OK! Otel Yöneticili_i bünyesinde yap_lacak canl_ yay_nlar_n organizasyon deste_i ile yönetimi konular_ndaki uygulamalar;BT;0;28/04/2018 21:01
+88;2018;sistem;RA Oditoryum Görüntü Altyap_s_;OK! Sistemlerin HDMI altyap_s_na göre kurgulanmas_ ve uygulamas_;BT;0;
+89;2018;sistem;"Oditoryumlar Video kay_t ve görüntü aktar_m_";OK! RA ve 150 oditoryumlarda Video kay_t sistemi olu_turulmas_ ve di_er alanlara görüntü aktar_m_ uygulamas_ ;BT;0;28/04/2018 21:01
+90;2018;sistem;Sinema salonlar_nda iyile_tirme;OK! Manuel yönetilen sistemlerin otomasyona geçirilmesi;BT;0;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
