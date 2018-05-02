@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def root():
-    return 'Python Web Server working successfully..'
+    return 'Python Web Server working successfully...'
 
 @app.route('/projeler', methods=['GET'])
 def api_projeler():
