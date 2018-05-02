@@ -1,4 +1,4 @@
-#!/Users/unsal/github/python/bthizmetler/venv/bin/python
+#!/Users/unsal/github/python/bthizmetler-python/venv/bin/python
 
 import sys
 import getopt
