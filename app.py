@@ -11,7 +11,7 @@ CORS(app)
 
 @app.route('/')
 def root():
-    return 'Python Web Server working successfully...'
+    return 'Python web server working successfully...'
 
 @app.route('/projeler', methods=['GET'])
 def api_projeler():
