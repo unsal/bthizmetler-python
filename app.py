@@ -1,7 +1,12 @@
 from flask import Flask
 from api.projeler_api import ProjelerApi
+from flask_cors import CORS
 
 app = Flask(__name__)
+
+# React tarafında Access-Control-Allow-Origin hatasını önlemek için
+CORS(app)
+
 # app.config.from_object('config.Config')
 
 @app.route('/')
