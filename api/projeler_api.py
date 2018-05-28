@@ -18,9 +18,16 @@ class ProjelerApi():
         try:
             dict = []
 
-            data = self.session.query(Projeler.id, Projeler.yil, Projeler.grup, Projeler.baslik, Projeler.aciklama, Projeler.sonuc, Projeler.birim, Projeler.durum).filter(Projeler.yil==self.yil, Projeler.grup==self.grup).order_by(Projeler.durum)
+            data = self.session.query(Projeler.id, Projeler.yil, Projeler.grup, Projeler.baslik, Projeler.aciklama, Projeler.sonuc, Projeler.birim, Projeler.durum, Projeler.zamandamgasi)
+            if (self.grup is not None):
+                data = data.filter(Projeler.yil==self.yil, Projeler.grup==self.grup)
+            else:
+                data = data.filter(Projeler.yil==self.yil)
+
+            data = data.order_by(Projeler.durum, Projeler.grup)
+
             for row in data:
-                dict.append({'id':row.id, 'yil':row.yil,'grup':row.grup, 'baslik':row.baslik, 'aciklama':row.aciklama, 'sonuc':row.sonuc, 'birim':row.birim, 'durum':row.durum})
+                dict.append({'id':row.id, 'yil':row.yil,'grup':row.grup, 'baslik':row.baslik, 'aciklama':row.aciklama, 'sonuc':row.sonuc, 'birim':row.birim, 'durum':row.durum, 'zamandamgasi':row.zamandamgasi})
 
             _json = jsonify({"projeler":dict})
 

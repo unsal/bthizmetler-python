@@ -13,10 +13,18 @@ CORS(app)
 def root():
     return 'Python web server working successfully...'
 
+# Tüm projeleri getir, gruptan bağımsız.
+@app.route('/projeler/<yil>', methods=['GET'])
+def api_projeler_tumu(yil):
+    api = ProjelerApi(yil, grup=None)
+    return api.message()
+
+# Grup bazında projeler
 @app.route('/projeler/<yil>/<grup>', methods=['GET'])
 def api_projeler(yil, grup):
     api = ProjelerApi(yil, grup)
     return api.message()
+
 
 
 if __name__=="__main__":
